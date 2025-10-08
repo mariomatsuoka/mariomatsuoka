@@ -1,24 +1,24 @@
-# 👋 Olá, eu sou Mário Arthur!
+# 👋 Hi, I'm Mário Arthur!
 
-## 🚀 Sobre mim
-- 💻 Apaixonado por tecnologia desde pequeno  
-- 🧑‍💻 Estudando e desenvolvendo projetos em  **Desenvolvimento web**
-- 🐾 Amo animais, filmes e séries  
-- 💪 Apesar da paralisia cerebral, nunca deixei de correr atrás dos meus sonhos  
+## 🚀 About Me
+- 💻 Passionate about technology since childhood  
+- 🧑‍💻 Currently studying and building projects in **Web Development**  
+- 🐾 Animal lover, movie & series enthusiast  
+- 💪 Living with cerebral palsy, but it has never stopped me from chasing my dreams  
 
-## 🛠️ Tecnologias & Ferramentas
-- Linguagens: `HTML`,  `CSS`, `JavaScript`.
-- Banco de Dados: `MySQL`
-- Versionamento: `Git & GitHub`
+## 🛠️ Tech Stack
+- Languages: `HTML`,`CSS`, `JavaScript`.
+- Databases: `MySQL`  
+- Version Control: `Git & GitHub`  
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomatsuoka&show_icons=true&theme=cobalt)
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mariomatsuoka&show_icons=true&theme=cobalt)
-
-## 🌎 Conecte-se comigo
-- 💼 [LinkedIn](soon) 
+## 🌎 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📧 [E-mail](mailto:marioarthursm@gmail.com) 
 
 ---
 
-⭐️ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
+⭐️ If you like my projects, don’t forget to leave a star!
+

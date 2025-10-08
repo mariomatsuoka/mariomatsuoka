@@ -1,0 +1,33 @@
+name: Alternar Idioma do README
+
+on:
+  workflow_dispatch:
+    inputs:
+      idioma:
+        description: 'Escolha o idioma (pt ou en)'
+        required: true
+        default: 'pt'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Rodar script de troca de idioma
+        run: python scripts/switch_readme.py ${{ github.event.inputs.idioma }}
+
+      - name: Commit e Push do novo README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Atualizando README para idioma ${{ github.event.inputs.idioma }}" || echo "Nada para commitar"
+          git push

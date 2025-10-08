@@ -20,5 +20,6 @@
 - 📧 [E-mail](mailto:marioarthursm@gmail.com) 
 
 ---
+🌐 Escolha seu idioma: [🇧🇷 Português](README.pt.md) | [🇺🇸 English](README.en.md)
 
 ⭐️ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
